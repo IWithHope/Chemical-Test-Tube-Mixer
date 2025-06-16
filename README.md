@@ -12,7 +12,7 @@ This is a low-cost, microcontroller-based device developed to automate chemical 
 
 - **Code/** – AVR Embedded C code for the ATmega328P
 - **Docs/** – Full report, user guide, and presentation
-- **Images/** – Photos (if added)
+
 
 ## 🛠 Tech Stack
 - ATmega328P microcontroller
